@@ -1,0 +1,13 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Mirror",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "onBoardingScreen1Title": "Get feedback on the things that matter to you",
+    "onBoardingScreen1Description": "Mirror allows you to get feedback from people all around the world.",
+    "onBoardingScreen2Title": "It's like having a focus group in your pocket",
+    "onBoardingScreen2Description": "Give and get honest, anonymous feedback on the things that matter most to you.",
+    "onBoardingScreen3Title": "Getting feedback has never been so easy & fun!",
+    "onBoardingScreen3Description": "Post a photo, ask a question, select an audience and get unbiased feedback. It's that simple!"
+}
