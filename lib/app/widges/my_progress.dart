@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:whiteproject/app/utils/colors.dart';
+import 'package:winebox/app/utils/colors.dart';
 
 enum MyProgressType { Normal, Download }
 
@@ -182,13 +182,13 @@ class _BodyState extends State<_Body> {
             crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-          CircularProgressIndicator(color: whiteproject_red),
+          CircularProgressIndicator(color: winebox_red),
           SizedBox(
             height: 10,
           ),
           Text(
           'Please wait',
-            style: TextStyle(color: whiteproject_red),
+            style: TextStyle(color: winebox_red),
           )
         ]),
       ),

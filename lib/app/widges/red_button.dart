@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:whiteproject/app/utils/styles.dart';
+import 'package:winebox/app/utils/styles.dart';
 
 class RedButton extends StatelessWidget {
 
